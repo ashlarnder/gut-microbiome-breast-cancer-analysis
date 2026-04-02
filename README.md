@@ -3,7 +3,7 @@ This repository includes R code for the analysis completed as part of my PhD wor
 
 Data generated or analyzed during this study are not publicly available due to privacy considerations and risk of subject identification given the small group of participants.
 
-GMBC_baseline-analysis
+## GMBC_baseline-analysis
 This is the R code used for the analysis and plotting for the baseline data, when our participants were enrolled into the study. 
 This code requires 7 datasets to be pulled in:
 - Estrobolome_targets (this is a list of estrobolome targets identified in a previous paper:  https://doi.org/10.1002/ijc.35427)
@@ -14,4 +14,4 @@ This code requires 7 datasets to be pulled in:
 - GMBC_Metabolite_Results.plasma.csv (targeted metabolomics panel measured in blood plasma)
 - GMBC_Metabolite_Results.stool.csv (targeted metabolomics panel measured in raw stool)
 
-GMBC_longitudinal-analysis
+## GMBC_longitudinal-analysis
