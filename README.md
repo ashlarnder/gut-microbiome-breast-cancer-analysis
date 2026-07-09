@@ -7,12 +7,3 @@ Data generated or analyzed during this study are not publicly available due to p
 This is the R code used for the analysis and plotting for:
 - the baseline data, when our participants were enrolled into the study
 - the longitudinal data, including baseline and six-month follow-up data
-  
-This code requires 7 datasets to be pulled in:
-- Estrobolome_targets (this is a list of estrobolome targets identified in a previous paper:  https://doi.org/10.1002/ijc.35427)
-- gmbc_data (this is the health, demographics, and dietary data collected via the CDHQIII)
-- profiled_metagenome.tsv (MetaPhlAn relative abundances measured from stool)
-- humann.path_nopipe.csv (HUMAnN3 pathway annotations measured from stool)
-- humann.enzymes_nopipe.csv (HUMAnN3 enzyme annotations measured from stool)
-- GMBC_Metabolite_Results.plasma.csv (targeted metabolomics panel measured in blood plasma)
-- GMBC_Metabolite_Results.stool.csv (targeted metabolomics panel measured in raw stool)
